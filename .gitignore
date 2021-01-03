@@ -1,0 +1,10 @@
+# folders
+__pycache__/
+doc/
+.idea/
+
+# database
+*.sqlite
+
+# test file
+test.py
